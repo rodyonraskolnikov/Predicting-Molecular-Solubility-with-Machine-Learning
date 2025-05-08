@@ -44,6 +44,7 @@ To predict the solubility of molecules using their chemical structure features a
 2. Open `Predicting-Molecular-Solubility.ipynb` in Jupyter Notebook or VSCode.
 3. Run all cells to train and evaluate models.
 
-## ✍️ Author
+## ✍️ Credits
 
-This project was created as a beginner-friendly introduction to machine learning regression modeling.
+This project was created as a beginner-friendly introduction to machine learning regression modeling. Huge thanks to [Data Professor](https://www.youtube.com/@DataProfessor) for his tutorial, enabling me to launch my first ever machine learning project!
+
