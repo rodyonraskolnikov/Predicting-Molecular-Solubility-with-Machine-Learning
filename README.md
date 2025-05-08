@@ -1,4 +1,4 @@
-# My First ML Project
+# **Predicting Molecular Solubility with Machine Learning**
 
 This project demonstrates how to build and evaluate machine learning regression models using molecular descriptor data to predict aqueous solubility (`logS`) of chemical compounds.
 
@@ -41,7 +41,7 @@ To predict the solubility of molecules using their chemical structure features a
 ## 🚀 How to Run
 
 1. Clone this repository.
-2. Open `first_project.ipynb` in Jupyter Notebook or VSCode.
+2. Open `Predicting-Molecular-Solubility.ipynb` in Jupyter Notebook or VSCode.
 3. Run all cells to train and evaluate models.
 
 ## ✍️ Author
