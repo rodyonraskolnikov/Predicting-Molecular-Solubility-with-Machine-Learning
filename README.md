@@ -9,15 +9,15 @@ The goal of this project is to develop and compare machine learning models to pr
 
 By applying both Linear Regression and Random Forest Regression, I assessed the performance of each model and interpreted their ability to generalize to unseen molecular data. This project showcases end-to-end ML workflows including:
 
-Data loading and cleaning
+- Data loading and cleaning
 
-Feature/target separation
+- Feature/target separation
 
-Model training and prediction
+- Model training and prediction
 
-Evaluation using MSE and R² Score
+- Evaluation using MSE and R² Score
 
-Model comparison for insight into performance tradeoffs
+- Model comparison for insight into performance tradeoffs
 
 ## 📁 Dataset
 
