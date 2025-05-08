@@ -4,7 +4,20 @@ This project demonstrates how to build and evaluate machine learning regression 
 
 ## 🔍 Objective
 
-To predict the solubility of molecules using their chemical structure features and compare the performance of two regression algorithms.
+The goal of this project is to develop and compare machine learning models to predict the aqueous solubility (logS) of chemical compounds based on their molecular descriptors. Using a publicly available dataset from [Delaney Solubility Dataset](https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv)
+, I explored how chemical structure information can be used to model solubility behavior—a key property in drug design and materials science.
+
+By applying both Linear Regression and Random Forest Regression, I assessed the performance of each model and interpreted their ability to generalize to unseen molecular data. This project showcases end-to-end ML workflows including:
+
+Data loading and cleaning
+
+Feature/target separation
+
+Model training and prediction
+
+Evaluation using MSE and R² Score
+
+Model comparison for insight into performance tradeoffs
 
 ## 📁 Dataset
 
